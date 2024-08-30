@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Aug 30 13:16:37 GMT 2024","Fri Aug 30 13:16:43 GMT 2024","5433","","Native Demo App","","","","Verifying the swipe of items",""
+"passed","Fri Aug 30 13:16:30 GMT 2024","Fri Aug 30 13:16:34 GMT 2024","3485","","Native Demo App","","","","Verifying the input field entry",""
+"passed","Fri Aug 30 13:16:35 GMT 2024","Fri Aug 30 13:16:37 GMT 2024","2438","","Native Demo App","","","","Verifying the drop-down list",""
+"passed","Fri Aug 30 13:16:43 GMT 2024","Fri Aug 30 13:17:06 GMT 2024","22966","","Native Demo App","","","","Verifying the drag and drop",""
+"passed","Fri Aug 30 13:16:34 GMT 2024","Fri Aug 30 13:16:35 GMT 2024","1146","","Native Demo App","","","","Verifying the toggle switch",""
