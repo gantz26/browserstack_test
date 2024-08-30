@@ -1,1 +1,7 @@
 /node_modules
+allure-results
+allure-report
+.env
+jsconfig.json
+response.json
+ReadMe_old.md
