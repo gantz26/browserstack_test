@@ -4,7 +4,7 @@ import dragPage from "../pageobjects/drag.page.js";
 import { faker } from '@faker-js/faker';
  
 describe("Native Demo App", () => {
-   it.only("Verifying the input field entry", async () => {
+   it("Verifying the input field entry", async () => {
      await formPage.formsButton.click();
      const text = faker.lorem.word();
      await formPage.inputField.setValue(text);

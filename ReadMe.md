@@ -41,20 +41,20 @@ curl -u "<username>:<access_key>" \
 }
 ```
 
-3. Create .env file and add the necessary data there
+5. Create .env file and add the necessary data there
 ```
 BROWSERSTACK_USERNAME=<username>
 BROWSERSTACK_ACCESS_KEY=<access_key>
 BROWSERSTACK_APP_ID=<app_url>
 ```
 
-4. To run the tests use one of the next commands:
+6. To run the tests use one of the next commands:
 ```
 npm run wdio:google
 npm run wdio:samsung
 ```
 
-5. To generate and view a report:
+7. To generate and view a report:
 ```
 npm run allure:generate
 npm run allure:open
