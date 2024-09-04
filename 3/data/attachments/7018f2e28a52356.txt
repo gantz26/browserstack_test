@@ -1,0 +1,10 @@
+{
+  "element-6066-11e4-a52e-4f735466cecf": "03211dff-8e62-4b26-82a8-0c93f070e59c",
+  "ELEMENT": "03211dff-8e62-4b26-82a8-0c93f070e59c",
+  "sessionId": "24bfd9f09edd10e8765cd4de85e175d1f0e10a58",
+  "capabilities": {
+    "element-6066-11e4-a52e-4f735466cecf": "03211dff-8e62-4b26-82a8-0c93f070e59c",
+    "ELEMENT": "03211dff-8e62-4b26-82a8-0c93f070e59c",
+    "sessionId": "24bfd9f09edd10e8765cd4de85e175d1f0e10a58"
+  }
+}
