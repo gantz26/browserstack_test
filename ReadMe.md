@@ -45,7 +45,7 @@ curl -u "<username>:<access_key>" \
 ```
 BROWSERSTACK_USERNAME=<username>
 BROWSERSTACK_ACCESS_KEY=<access_key>
-BROWSERSTACK_APP_ID=<app_url>
+BROWSERSTACK_APP_URL=<app_url>
 ```
 
 6. To run the tests use one of the next commands:
