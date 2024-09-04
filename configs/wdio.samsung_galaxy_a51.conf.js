@@ -16,7 +16,7 @@ export const config = {
       name: 'second_test',
       device: 'Samsung Galaxy A51',
       os_version: "10.0",
-      app: process.env.BROWSERSTACK_APP_URL || 'bs://<hashed app-id>',
+      app: process.env.BROWSERSTACK_APP_URL,
       'browserstack.debug': true
     }],
   
