@@ -1,0 +1,14 @@
+{
+  "x": 199,
+  "y": 936,
+  "width": 220,
+  "height": 220,
+  "sessionId": "c469899d9a9ed5fa866bafbe063b3edaa5615bea",
+  "capabilities": {
+    "x": 199,
+    "y": 936,
+    "width": 220,
+    "height": 220,
+    "sessionId": "c469899d9a9ed5fa866bafbe063b3edaa5615bea"
+  }
+}
