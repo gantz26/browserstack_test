@@ -25,7 +25,7 @@ jobs:
         run: |
           echo BROWSERSTACK_USERNAME=${{ secrets.USERNAME }} > .env
           echo BROWSERSTACK_ACCESS_KEY=${{ secrets.ACCESS_KEY }} >> .env
-          echo BROWSERSTACK_APP_ID=${{ secrets.APP_ID }} >> .env
+          echo BROWSERSTACK_APP_URL=${{ secrets.APP_ID }} >> .env
 
       - name: Run tests
         run: npm run wdio:google

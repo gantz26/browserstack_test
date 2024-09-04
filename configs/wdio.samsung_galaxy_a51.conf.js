@@ -1,8 +1,8 @@
 import "dotenv/config";
 
 export const config = {
-    user: process.env.BROWSERSTACK_USERNAME || 'BROWSERSTACK_USERNAME',
-    key: process.env.BROWSERSTACK_ACCESS_KEY || 'BROWSERSTACK_ACCESS_KEY',
+    user: process.env.BROWSERSTACK_USERNAME,
+    key: process.env.BROWSERSTACK_ACCESS_KEY,
   
     updateJob: false,
     specs: [
@@ -16,7 +16,7 @@ export const config = {
       name: 'second_test',
       device: 'Samsung Galaxy A51',
       os_version: "10.0",
-      app: process.env.BROWSERSTACK_APP_ID || 'bs://<hashed app-id>',
+      app: process.env.BROWSERSTACK_APP_URL || 'bs://<hashed app-id>',
       'browserstack.debug': true
     }],
   

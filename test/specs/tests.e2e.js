@@ -48,9 +48,9 @@ describe("Native Demo App", () => {
 
      const letters = [ 'l', 'c', 'r' ];
      const numbers = [ '1', '2', '3' ];
-     for (let i = 0; i < 3; ++i) {
-      for (let j = 0; j < 3; ++j) {
-        const id = letters[i] + numbers[j];
+     for (const letter of letters) {
+      for (const number of numbers) {
+        const id = letter + number;
         const tile = await dragPage.getTile(id);
         const cell = await dragPage.getCell(id);
         await dragPage.dragAndDrop(tile, cell);
