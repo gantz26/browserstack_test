@@ -1,0 +1,10 @@
+{
+  "element-6066-11e4-a52e-4f735466cecf": "1a1fc076-c09a-4859-bf81-144fd1e6c76e",
+  "ELEMENT": "1a1fc076-c09a-4859-bf81-144fd1e6c76e",
+  "sessionId": "3af5f1c0bdde3d3309908508bd8dbc8f21a0cbc0",
+  "capabilities": {
+    "element-6066-11e4-a52e-4f735466cecf": "1a1fc076-c09a-4859-bf81-144fd1e6c76e",
+    "ELEMENT": "1a1fc076-c09a-4859-bf81-144fd1e6c76e",
+    "sessionId": "3af5f1c0bdde3d3309908508bd8dbc8f21a0cbc0"
+  }
+}
